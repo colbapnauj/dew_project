@@ -1,0 +1,39 @@
+
+
+#blank_space {
+    height: 250px;
+}
+
+#blank_space2 {
+    height: 250px;
+}
+
+#container {
+    width: 1320px;
+    margin: auto;
+}
+
+
+#info {
+    background-image: url("../img/bg_3.png");
+
+    background-size: auto;
+    height: 650px;
+    background-attachment: fixed;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+.card {
+    background-color: rgba(230, 122, 0, 0.8);
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    
+    
+
+}
